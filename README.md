@@ -1,6 +1,7 @@
 # Inicio
-- Esta lista incluye tantos comandos funcionales y comandos de desactivados y/o obsoletos
 - Lista completa de comandos para la gamemode roleplay [DownTown](https://github.com/javier-es/DownTown-RP)
+- 
+- Esta lista incluye tantos comandos funcionales y comandos de desactivados y/o obsoletos
 - No aseguro que todos los comandos de esta lista sean funcionales
 
 ## Busqueda
