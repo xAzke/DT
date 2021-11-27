@@ -1,17 +1,18 @@
-# Comandos-DT
+# Inicio
 Lista completa de comandos para la gamemode roleplay DownTown
+
+# Busqueda
+Puedes usar Control + F para buscar por algun termino en especifico
 
 ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
                                                     
- $$$$$$\            $$\   $$\          
-$$  __$$\           $$ | $$  |         
-$$ /  $$ |$$$$$$$$\ $$ |$$  / $$$$$$\  
-$$$$$$$$ |\____$$  |$$$$$  / $$  __$$\ 
-$$  __$$ |  $$$$ _/ $$  $$<  $$$$$$$$ |
-$$ |  $$ | $$  _/   $$ |\$$\ $$   ____|
-$$ |  $$ |$$$$$$$$\ $$ | \$$\\$$$$$$$\ 
-\__|  \__|\________|\__|  \__|\_______|
-                                                                                                                                        
+ █████╗ ███████╗██╗  ██╗███████╗
+██╔══██╗╚══███╔╝██║ ██╔╝██╔════╝
+███████║  ███╔╝ █████╔╝ █████╗  
+██╔══██║ ███╔╝  ██╔═██╗ ██╔══╝  
+██║  ██║███████╗██║  ██╗███████╗
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+                                                                                                                                                                      
 - Lista de Comandos creada por xAzke - 
 - https://github.com/xAzke/Comandos-DT -
 - No remuevas los creditos (⩾﹏⩽) -
