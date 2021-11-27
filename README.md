@@ -1,15 +1,13 @@
 # Inicio
 Lista completa de comandos para la gamemode roleplay DownTown
 
-# Busqueda
+## Busqueda
 Puedes usar Control + F para buscar por algun termino en especifico
 
 ## Informacion
 - Lista de Comandos creada por [Azke](https://discord.com/users/858176837733711882) - 
-- https://github.com/xAzke/Comandos-DT -
-- No remuevas los creditos (⩾﹏⩽) -
 
-# Comandos
+## Comandos
 
 3dtext
 
@@ -618,7 +616,7 @@ voz
 - /whisper - Activas el modo para hablar con toda la faccion
 - /voz - Muestra algunos comandos del sistema de voz por frecuencia
 
-# Creditos
+### Creditos
 ```            
  █████╗ ███████╗██╗  ██╗███████╗
 ██╔══██╗╚══███╔╝██║ ██╔╝██╔════╝
