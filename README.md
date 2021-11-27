@@ -4,20 +4,7 @@ Lista completa de comandos para la gamemode roleplay DownTown
 # Busqueda
 Puedes usar Control + F para buscar por algun termino en especifico
 
-◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
-                                                    
- █████╗ ███████╗██╗  ██╗███████╗
-██╔══██╗╚══███╔╝██║ ██╔╝██╔════╝
-███████║  ███╔╝ █████╔╝ █████╗  
-██╔══██║ ███╔╝  ██╔═██╗ ██╔══╝  
-██║  ██║███████╗██║  ██╗███████╗
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
-                                                                                                                                                                      
-- Lista de Comandos creada por xAzke - 
-- https://github.com/xAzke/Comandos-DT -
-- No remuevas los creditos (⩾﹏⩽) -
-                                                    
-◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+# Comandos
 
 3dtext
 
@@ -625,3 +612,20 @@ voz
 - /misf o /misfrecuencias - Abres el panel de la radio
 - /whisper - Activas el modo para hablar con toda la faccion
 - /voz - Muestra algunos comandos del sistema de voz por frecuencia
+
+# Creditos
+
+◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+                                                    
+ █████╗ ███████╗██╗  ██╗███████╗
+██╔══██╗╚══███╔╝██║ ██╔╝██╔════╝
+███████║  ███╔╝ █████╔╝ █████╗  
+██╔══██║ ███╔╝  ██╔═██╗ ██╔══╝  
+██║  ██║███████╗██║  ██╗███████╗
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+                                                                                                                                                                      
+- Lista de Comandos creada por xAzke - 
+- https://github.com/xAzke/Comandos-DT -
+- No remuevas los creditos (⩾﹏⩽) -
+                                                    
+◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
