@@ -5,7 +5,7 @@ Lista completa de comandos para la gamemode roleplay DownTown
 Puedes usar Control + F para buscar por algun termino en especifico
 
 ## Informacion
-- Lista de Comandos creada por [Azke](https://discord.com/users/858176837733711882) - 
+- Lista de Comandos creada por [Azke](https://discord.com/users/858176837733711882)
 
 ## Comandos
 
