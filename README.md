@@ -614,7 +614,7 @@ voz
 - /voz - Muestra algunos comandos del sistema de voz por frecuencia
 
 # Creditos
-```bash
+```
 ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
                                                     
  █████╗ ███████╗██╗  ██╗███████╗
