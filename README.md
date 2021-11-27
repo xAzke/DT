@@ -4,6 +4,11 @@ Lista completa de comandos para la gamemode roleplay DownTown
 # Busqueda
 Puedes usar Control + F para buscar por algun termino en especifico
 
+## Informacion
+- Lista de Comandos creada por [Azke](https://discord.com/users/858176837733711882) - 
+- https://github.com/xAzke/Comandos-DT -
+- No remuevas los creditos (⩾﹏⩽) -
+
 # Comandos
 
 3dtext
@@ -614,19 +619,11 @@ voz
 - /voz - Muestra algunos comandos del sistema de voz por frecuencia
 
 # Creditos
-```
-◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
-                                                    
+```            
  █████╗ ███████╗██╗  ██╗███████╗
 ██╔══██╗╚══███╔╝██║ ██╔╝██╔════╝
-███████║  ███╔╝ █████╔╝ █████╗  
-██╔══██║ ███╔╝  ██╔═██╗ ██╔══╝  
+███████║  ███╔╝ █████╔╝ █████╗ 
+██╔══██║ ███╔╝  ██╔═██╗ ██╔══╝ 
 ██║  ██║███████╗██║  ██╗███████╗
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
-                                                                                                                                                                      
-- Lista de Comandos creada por xAzke - 
-- https://github.com/xAzke/Comandos-DT -
-- No remuevas los creditos (⩾﹏⩽) -
-                                                    
-◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝                
 ```
