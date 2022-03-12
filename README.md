@@ -508,7 +508,7 @@ repartos
 
 ropas
 
-- /nochica - Remuve el shader de una textura (Ni idea para que funciona esto) (Comando Desactivado)
+- /nochica - Remueve el shader de una textura (Ni idea para que funciona esto) (Comando Desactivado)
 
 runcode
 
@@ -540,7 +540,7 @@ tiempo
 
 - /getweather - Obtienes el tiempo actual (Comando Desactivado)
 - /clima - Abre una ventana para controlar el clima
-- /prevision - Estableces el crima siguente al actual
+- /prevision - Estableces el clima siguente al actual
 
 tlf
 
