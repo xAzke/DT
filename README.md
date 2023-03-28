@@ -557,7 +557,7 @@ tlf
 
 vehicles
 
-- /createfuelpoint - Creas una gasolinera en tu posicion actual
+- /createfuelpoint 'nombre' - Creas una gasolinera en tu posicion actual
 - /createvehicle o /makevehicle 'id' - Creas un vehiculo en tu posicion actual
 - /deletevehicle o /delvehicle 'id' - Eliminas un vehiculo por completo
 - /repairvehicle o /fixvehicle 'jugador' - Reparas tu vehiculo o el de otro jugador
